@@ -51,7 +51,7 @@ MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5131396714,Christmas
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5195651915,Animal Photo Face Editor,unknown,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5345159918,Hijab Fashion Dress Suit Photo Maker 2017,com.hijab.photo.dress.editor,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5385199116,Shikwa Jawab Shikwa,unknown,ANDROID
-MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5454584346,Currency Converter Plus,com.digitalchemy.currencyconverter,ANDROID
+MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5454584346,Currency Converter Plus Rates,com.digitalchemy.currencyconverter,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5624361513,Bridal Photo Editor-Wedding Dress Bride Suit,com.bridal.photo.editor,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~5779220960,insta downloader,unknown,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~6039598713,Valentine Card Maker,unknown,ANDROID
@@ -141,7 +141,7 @@ EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~3814040826,Doc new,u
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~3863806662,Image to PDF Converter App,imagetopdf.pdfconverter.jpgtopdf.img2pdf.converter,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~3871846789,Deer Hunting Game 2018; Wild Shooting,com.appstime.deer.hunting.jungle.shooter.game,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~3906356308,Broza VPN Fast & Secure Proxy,6745610574,IOS
-EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~4071799888,Cognise - Ai Art Generator,6478964966,IOS
+EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~4071799888,Cognise - Ai Photo Generator,6478964966,IOS
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~4078515730,doc scanner,unknown,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~4146173268,Cleanout: Phone Storage Cleaner,unknown,IOS
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~4194080931,Auto Responder - Auto Reply,com.ai.tech.auto.responder.app,ANDROID
@@ -461,7 +461,7 @@ Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~4865082626,PDF Scan
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~4911413822,Modern DogFighter Simulator - Jet Fighter Strike,com.modern.dogfighter.simulator,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~4927947426,VR US Commando Assault Battle IOS,unknown,IOS
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~5028519953,Translate PDF - Scan & Edit,unknown,ANDROID
-Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~5079959686,Font Keyboard - cute fonts art,com.fontskeyboard.fonts.stylishkeyboard,ANDROID
+Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~5079959686,Fonts Keyboard Themes - Emoji,com.fontskeyboard.fonts.stylishkeyboard,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~5100731908,App Lock - Lock Apps Master,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~5157337843,Photo to Video Reel Maker,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~5165626621,Iqbal Poetry Post Maker,unknown,ANDROID
@@ -711,12 +711,13 @@ Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~127497906
 Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~2555644522,Police chase 2020,unknown,ANDROID
 Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~2733923713,Police chase game 2020,unknown,ANDROID
 Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~3209466669,Smart Transfer & Copy My Data,com.mobile.phoneclone.android.filetransfer.smartswitch.easyMover.copymydata,ANDROID
-Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~3523671673,Drive Beyond Horizon Roads,unknown,ANDROID
+Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~3523671673,Drive Beyond Horizon Roads,com.emerging.drive.horizons.roads,ANDROID
 Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~8654753280,Police Car Chase: Police Games,com.policechase.policecargames.car.racing.driving.games2020,ANDROID
 Emerging Games Studio,pub-6150500487425428,ca-app-pub-6150500487425428~8751564156,FPS Commando Shooting Gun Game,com.emerging.fps.commando.shooting.game,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1158702357,City Runner:Free Run,com.at.obstaclerunner,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1173819242,Water Color Sort Puzzle Games,unknown,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1298303153,Car Long Drive Race,com.at.TrafficRacer,ANDROID
+Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1416570432,Flying Car Robot Shooting Game,unknown,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1437903955,Shoot the Bottles:Shooter Game,com.at.bottleshooter,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1645754970,Highway Car Racing Offline,com.endlessracing.racinginbus.racingincar.racinggames.simulationgames,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~1678565157,City Bus Simulator 2,com.ajwa.City.Bus.Simulatorss,ANDROID
