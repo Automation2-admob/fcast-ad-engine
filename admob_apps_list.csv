@@ -99,7 +99,7 @@ TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~4678896244,eBooks
 TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~5209675093,PDF Scanner : Document Reader,com.docscan.camscan.pdfscanner.pagescanner.documentscanner,ANDROID
 TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~6565277845,HD Video downloader and Player,com.downloadvideos.allvideodownloader.hdvideosaver.videoplayer,ANDROID
 TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~6644366991,QR Code Scanner-Barcode Reader,com.qrcode.scan.barcode.reader.freescanner,ANDROID
-TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~7928581976,PDF Speaker Text To Speech TTS,com.pdfspeaker.pdfreader.pdfviewer.pdfeditor,ANDROID
+TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~7928581976,PDF Reader - PDF Speaker,com.pdfspeaker.pdfreader.pdfviewer.pdfeditor,ANDROID
 TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~9264977080,Languages Translator App,com.freevoicetranslator.languagetranslate.speakandtranslate,ANDROID
 TOOL_APPS_HUB,pub-6407928727580827,ca-app-pub-6407928727580827~9305052753,Voice Translator All Languages,com.chattranslation.conversation.voicetranslator.translatorappfree.audiotranslator,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~1015023589,Space Shooting 3D,com.appstime.space.war.shooting,ANDROID
@@ -188,7 +188,7 @@ EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7618540785,Lion Hunt
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7699723186,Holy Quran,com.appstime.holy.quran.islamic.book,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7710259041,Edge Lighting - Border Colors,com.edgelighting.colors.borderlight.magicledlite,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7713767586,Don't use,unknown,ANDROID
-EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7938334800,QR Scanner & Generator: QR App,6755142968,IOS
+EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7938334800,QR Code Generator & Creator *,6755142968,IOS
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7998361186,Commando Action 3d,unknown,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~8135105989,Cricket Cup Schedule 2015,com.appstime.cricket.worldcup2015.schedule,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~8192164647,Voice Changer & Sound Effects,com.voicechanger.backgroundmusic.audioeffect.voicerecorder.audioeditor.soundrecorder,ANDROID
@@ -321,6 +321,7 @@ EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~9973383437,Sniper Wa
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8311194012,Formula Racer Rush Drive,com.gcs.formula.racer.rush.drive,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8419417200,GPS Toolbox 2018,unknown,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8424279997,"Antivirus: Virus Cleaner, Junk",com.antivirus.viruscleaner.junkcleaner.app,ANDROID
+8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8468800927,Recover Deleted Messages App,recover.deleted.messages.business.messagerecovery,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8473275617,Farm Tractor Transporter,com.spg.farm.tractor.transporter,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8774656649,Live Earth Map View: 360 Satellite & Street view,com.supertool.liveearth.mapview.satellite.streetview,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8778646871,GPS Compass Tool - Live Streetview Smart Compass,unknown,ANDROID
@@ -330,7 +331,7 @@ EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~9973383437,Sniper Wa
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~8970973215,Naval Gunner Warship Attack 3D,com.spg.naval.gunner.combat,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9047738415,Real Forklift Operator,com.gcs.real.forklift.operator.simulation,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9048574812,Heli Cargo AirPlane Simulator,com.spg.cargo.plane.simulator,ANDROID
-8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9095269423,GeoVPN - Super Unlimited Proxy,com.fast.secure.proxyvpn.unlimitedproxy.security,ANDROID
+8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9095269423,GeoVPN - Super VPN Proxy,com.fast.secure.proxyvpn.unlimitedproxy.security,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9164038812,Gunship Counter Strike Air Fury,1130200084,IOS
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9253708760,3D Earth Globe,unknown,ANDROID
 8th Generation Apps,pub-3866251076647448,ca-app-pub-3866251076647448~9291050418,Monkey Temple Surfer,com.spg.monkey.temple.surfer,ANDROID
@@ -586,7 +587,7 @@ Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~2753133355,Flying
 Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~2952651357,London Taxi Service,unknown,ANDROID
 Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3044354217,Super Cycle Jungle Rider: #1 C,com.maritime.cycle.jungle.rider,ANDROID
 Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3082344952,Water Slide Stunt Adventure 3d,unknown,ANDROID
-Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3179727879,Football Scoreboard Live Score,6745244919,IOS
+Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3179727879,"Football Live Scores, Fixtures",6745244919,IOS
 Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3305855933,under water shark hunt,unknown,ANDROID
 Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3327785751,Flying Car racing,unknown,ANDROID
 Quantam Leaps,pub-7849136466938181,ca-app-pub-7849136466938181~3693040682,"Notes: To Do List, Notepad",com.notepadfree.photonotes.voicenotes.checklist,ANDROID
@@ -683,6 +684,7 @@ App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5155237570,Global Li
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5183607484,Offroads Tuk Tuk Rickshaw Drift,unknown,IOS
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5223970081,Fighter Plane Gunship City Destroy Attack 3D Sim,unknown,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5310279777,Airplane Flight Pilot Simulator: 3D Flying Game,unknown,ANDROID
+App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5330971461,Photo Recovery: Data Recovery,unknown,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5364841744,Offroad Tractor Pull Car Sim - Chained Tractor 3D,unknown,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5373544208,Photo Video Maker with Music,com.videoeditors.musicvideomakers.videoslideshow.photovideomakers,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5381373984,video downloader,unknown,ANDROID
@@ -883,7 +885,7 @@ Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1620287760,flying 
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1673814969,Dirt Car Rally,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1683737762,Dinosaur Jungle Shooting Hunting Season Free,1113536556,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1689496567,Michigan car transporter pro: city transport truck,unknown,IOS
-Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1694976309,城巴遊戲模擬器2023：公交車駕駛模擬器,6451466894,IOS
+Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1694976309,Bus Simulator Driver Bus Games,6451466894,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1738574160,City Cartoon Car Racer,com.gamesorbit.city.cartoon.car.racer,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1771467363,Excavator Construction Sim 016,com.gamesorbit.excavator.construction.simulator,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~1812137768,Commando Desert Adventure Shooting Free,1121580124,IOS
@@ -934,7 +936,7 @@ Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3305830568,Flappy 
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3381239794,Reverse Prado Parking,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3402078961,Bus Simulator Tourist Drive Offroad,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3507682568,Sahara Desert Truck Driver,1137502245,IOS
-Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3529094770,Arrow Escape,unknown,ANDROID
+Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3529094770,Arrow Escape Arrow Out Game,com.arrow.escape.arrow.out.game.gs,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3569350569,8 Ball Pool,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3628543920,4 by 4 Mountain Stunt Jeep 2020,unknown,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~3664289762,Army Simulator Truck games 3D,com.gamesorbit.army.truck.driver,ANDROID
@@ -1114,7 +1116,7 @@ Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9301337731,Bike St
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9313726351,Dino Sniper Shoot 3D - Jurassic Jungle Survival,com.deadly.dinosaur.sniper.hunting,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9322925766,Stick The Goat,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9402366430,Badminton,com.playbadminton.legendstar.multiplayer,ANDROID
-Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9414888849,城市警察汽车驾驶模拟器 : 犯罪都市警察模拟器赛车汽车游戏,6470780547,IOS
+Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9414888849,City Police Chase Cop Games 3d,6470780547,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9467716567,Heli Cargo Simulator Relief,com.gamesorbit.heli.cargo.simulator,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9472307764,Naval Warship World War,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~9482640965,Ultimate Gorilla City Attack,unknown,IOS
