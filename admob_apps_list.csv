@@ -1,6 +1,6 @@
 account_name,publisher_id,app_id,app_name,package_name,platform
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~1088512660,Photomath,com.microblink.photomath,ANDROID
-MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~1170873130,Cloud Storage,unknown,ANDROID
+MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~1170873130,Cloud Storage Backup Drive App,com.storage.cloudbackup.drive,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~1173532476,Voice Changer - Ai Voice Clone,com.mts.ai.voice.generator.voice.cloning,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~1389256524,Cricket Fast Live Scores,com.mts.live.score.update.live.cricket.matches.update,ANDROID
 MEDIA_TECH,pub-2958488332734345,ca-app-pub-2958488332734345~1446901666,Barcode Scan,unknown,ANDROID
@@ -189,6 +189,7 @@ EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7021046956,Winner,un
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7039376940,Launcher OS – Themes & Widget,com.customnotification.micontrol.center.launcherapp,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7138196381,rescue helicopter,unknown,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7177745490,AI Auto WA messages Responder,com.whatsauto.autoresponder,ANDROID
+EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7255689315,Phone clone Smart switch,unknown,IOS
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7288083589,sokoban 3D,unknown,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7395761630,Antivirus: Phone Cleaner,com.fileexplorer.myfiles.filemanager.cleaner.antivirus.app,ANDROID
 EAGLE APPS,pub-7686441346604913,ca-app-pub-7686441346604913~7618540785,Lion Hunting Game 2016,com.appstime.jungle.lion.hunting3d.free,ANDROID
@@ -399,12 +400,12 @@ Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5335649781,Phone Cleaner – Junk Cleaner,com.phonecleaner.storagecleaner.junkcleaner.cleanphone,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5576486692,Wifi Analyzer Pro,com.appresort.wifi.analyzer.wifi.scanner.speed.test,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5627895886,Quran - Five Surahs of Quran,com.tafseer.jalalain.indo,ANDROID
-Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5644319709,PS Remote Play Controller,com.playstation.remote.play.psremote,ANDROID
+Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5644319709,Remote Game Controller,com.playstation.remote.play.psremote,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5852417818,Venture vpn Ios,unknown,IOS
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~5967092640,Tafsir Al-Qurtubi Arabic,com.tafseer.qurtabi.arabic,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6054809787,Movies Drama & TV series: Info,infoguide.movies.trailers.dramas.tvshows.webseries,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6373310699,All HD Video Downloader App,unknown,ANDROID
-Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6606322202,Smart Invoice Maker & Manager,invoice.invoicemaker.estimatemaker.billingapp.bills,ANDROID
+Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6606322202,Invoice Maker & Smart Billing,invoice.invoicemaker.estimatemaker.billingapp.bills,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6633233368,Download Status: Save Status,unknown,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6670060833,Software Update : Phone Update,com.softwareupdate.allappsupdater,ANDROID
 Apps Resort - Daily Tool Apps,pub-4019558876287623,ca-app-pub-4019558876287623~6753899044,Al Quran & Qibla: Muslim App,com.jsmarttechnology.alquranulkareemwithtranslations,ANDROID
@@ -438,14 +439,17 @@ Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1378054487,Simple P
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1423341543,"Notes: To Do List, Notepad",com.notepadfree.photonotes.voicenotes.checklist,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1425198432,Audio Translator All Languages,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1435053943,Muslim Edits and Video Maker,com.templix.video.maker.templates.editor,ANDROID
+Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1444141194,PrintAll: Smart Pocket Printer,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1445073420,Plunger Jack Treasures Adventure Escape 3D,com.plunger.jack.sewers,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1471961123,Cute Baby Frame,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1535548628,Real Car Speed Racing,unknown,IOS
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1577256921,Slow Motion Video Maker&Editor,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1618024624,Army Photo Editor,unknown,ANDROID
+Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1618103844,Live Score 2 Tulip android,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1624130220,Roller Coaster Animal Shooter IOS,unknown,IOS
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1733299027,Girl Jacket Photo Editor,unknown,ANDROID
-Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1792776930,Smart Printer Tulip Android,unknown,ANDROID
+Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1771444250,"PDF Reader, Editor & Scanner",unknown,ANDROID
+Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1792776930,PrintAll: Smart Pocket Printer,com.eprint.smart.printer.scanner.printall.app,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1812193357,Heart Lock Themes & Wallpapers,com.lockscreen.love.heart.best.zippers.new,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1952733936,QR code scanner - Barcode Scan,com.freescanner.qrcodereader.barcodescanner.barcodereader.socialmobileapps,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~1958925422,Passenger Plane Simulator,com.passenger.plane.simulator,ANDROID
@@ -590,7 +594,7 @@ Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9071987888,Live Fli
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9088306626,All Video Downloader Lite,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9132788223,Arab Man Photo Editor : Suit Changer,com.arab.photo.dress.editor,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9143264718,Edge Locker App,unknown,ANDROID
-Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9171215297,PDF Reader App Tulip,unknown,ANDROID
+Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9171215297,"PDF Reader, Editor & Scanner",com.funsoltechnologies.PDFReaderapp.android,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9330838629,Highway Traffic Bike Racer,unknown,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9331702440,QR Scanner & Barcode Scanner,qrcodescanner.barcodescanner.cam.scanner.qrcode.barcodereader.scanner.app.scanner,ANDROID
 Hi_Shot_Inc,pub-2452448243939955,ca-app-pub-2452448243939955~9341613424,Where's My Flag - UF,unknown,ANDROID
@@ -731,7 +735,7 @@ App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5223970081,Fighter P
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5230003265,Islam 355 Qibla Direction App,com.qibladirectioncompass.islamicapp.quranapp.namaztimings,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5277501119,Software Updater: Update Apps,software.update.updatesofware,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5310279777,Airplane Flight Pilot Simulator: 3D Flying Game,unknown,ANDROID
-App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5330971461,Photo Recovery: Video Recovery,photo.recovery.datarecovery,ANDROID
+App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5330971461,Photo Recovery - File Recovery,photo.recovery.datarecovery,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5364841744,Offroad Tractor Pull Car Sim - Chained Tractor 3D,unknown,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5373544208,Photo Video Maker with Music,com.videoeditors.musicvideomakers.videoslideshow.photovideomakers,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~5381373984,video downloader,unknown,ANDROID
@@ -761,7 +765,7 @@ App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~7711463860,Sniper Sh
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~7771299227,Marine Traffic Live :  Ship Positions Tracker 2019,com.maarrinetrafficmap.marrine.searoute.marrinenavigation,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~7905234087,"Drive Roller Coaster – Ride, Thrill & Adventure 3D",unknown,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~7947002939,Rock The Ball,unknown,ANDROID
-App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~8169340412,Money Manager: Expense Tracker,com.finance.expensetracker.budgetplanner.walletmanager,ANDROID
+App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~8169340412,Budget Planner: Money Tracker,com.finance.expensetracker.budgetplanner.walletmanager,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~8409537677,Dubai Jeep Drifts Desert Legend: Top New Free 2017,unknown,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~8539427237,GIF Keyboard Theme-Cool Font,com.font.keyboard.emoji.stickers.faceemoji,ANDROID
 App X Tech,pub-7080621613847710,ca-app-pub-7080621613847710~8605465364,Secure Folder- Photo Vault,com.photovault.safevault.videohider.vaultwithlock.privatevault,ANDROID
@@ -813,7 +817,7 @@ Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~23234
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2334822288,Jet Fighter Game,unknown,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2391149217,Supermarket Simulator Toymart,6762590733,IOS
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2400755405,Universal Tv Remote Control,com.universal.tv.remote.control.tvremote,ANDROID
-Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2555199466,Sketchly,unknown,ANDROID
+Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2555199466,Sketchly: AR Drawing App,com.sketchly.ardrawing,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2635435557,Bowling Alley 3D:Ocean Bowling,com.at.BowlingMania3D,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2766800225,Movies & Web series Info,com.masha.apps.movies.webseries.tv.shows,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~2775036356,Motorway Bike Trip,com.at.bikeracer,ANDROID
@@ -888,7 +892,7 @@ Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~84195
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8485276437,Farming Simulator Farm Games,com.mt.farming.simulator.tractor.trailer.games,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8681969153,City Bus Simulator 3D,com.at.citybussimulator,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8718871858,Relaxing Music Free : Calm Melodies and Sounds,com.relaxing.music.free.sleeping,ANDROID
-Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8764680328,Mobile Screen Recorder App,recorder.screenrecorder.screenvideorecorder,ANDROID
+Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8764680328,Screen Recorder - HD Recording,recorder.screenrecorder.screenvideorecorder,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8821569953,Hill Climb 2014,com.at.HillClimbing3DFree,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8953160238,BMX Cycle Racing Games,com.mt.bmx.bicycle.skating.racing.game,ANDROID
 Maritime Simulation Games,pub-4868878983551188,ca-app-pub-4868878983551188~8961170753,Uphill Drive Adventure,com.at.hillclimbingadventure,ANDROID
@@ -922,7 +926,7 @@ Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~3278739574,Ca
 Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~3476265333,Tuk Tuk Rickshaw - Auto Game,com.free.trending.games.classic.car.parking.modern,ANDROID
 Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~3504137107,City Tractor Driving Game : Of,com.tractor.simulator.games.farming.pulling.towing.transport.tractorgames,ANDROID
 Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~3834483558,Multistory Car Parking 2019,unknown,ANDROID
-Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~3853911456,American Truck Simulator 2022,1641043187,IOS
+Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~3853911456,Truck Simulator 2022,1641043187,IOS
 Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~4228294903,Car Stunts,unknown,ANDROID
 Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~4329173248,Excavator Drive Simulator Game,com.gameplan.landsliderescue.Bulldozer.game.free,ANDROID
 Funsol Gaming Lab,pub-4813805900272378,ca-app-pub-4813805900272378~4588118842,Wild Sniper Forest Hunting,com.gameplan.wild.animal.jungle.hunting.free,ANDROID
@@ -1058,6 +1062,7 @@ Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4454914567,Gunship
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4461003360,Moto Stunts Adventure,unknown,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4465136162,Wood Cargo Transporter 3D,1033130154,IOS
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4465325763,Racing Need in Speed,com.gamesorbit.racing.need.speedthrill,ANDROID
+Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4502891677,Cleaning ASMR,unknown,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4510073680,Grand City Mafia Theft Game 3d,com.gs.gangster,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4598820965,Heli Mountain Attack -War Game,com.gamesorbit.heli.mountain.attack,ANDROID
 Gaming Stars,pub-3822444073990093,ca-app-pub-3822444073990093~4773531648,Mountain Bus Simulator,unknown,ANDROID
